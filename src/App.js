@@ -1,4 +1,3 @@
-import "./App.css";
 import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
 import Layout from "./Layout";
 function App() {
